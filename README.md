@@ -22,7 +22,6 @@ abundance, Coleoptera family richness, and Coleoptera family composition.
 - `supplementary_summaries.R` - additional taxonomic summaries used in interpretation
 - `appendix_tables.R` - code used to produce dissertation appendix tables
 - `data/` - sample metadata and taxonomic identification data
-- `figures/` - final figures produced from the analyses
 
 ## Software
 
